@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "mpdf/mpdf": "8.2"
+    },
+    "config": {
+        "audit": {
+            "abandoned": "report"
+        }
+    }
+}
